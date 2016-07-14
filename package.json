@@ -1,6 +1,6 @@
 {
   "name": "stimpak-git",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Prompt for whether to use git and/or gitflow. Optionally initialize both.",
   "main": "lib/generator.js",
   "keywords": [
