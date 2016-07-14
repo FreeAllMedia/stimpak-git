@@ -1,13 +1,21 @@
 {
   "name": "stimpak-git",
-  "version": "0.0.0",
-  "description": "Prompt for whether to use git or not.",
+  "version": "0.0.1",
+  "description": "Prompt for whether to use git and/or gitflow. Optionally initialize both.",
   "main": "lib/generator.js",
   "keywords": [
     "stimpak"
   ],
-	"dependencies": {
-	},
-  "devDependencies": {
-	}
+  "license": "MIT",
+  "author": "dcrockwell",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreeAllMedia/stimpak-git"
+  },
+  "bugs": {
+    "url": "https://github.com/FreeAllMedia/stimpak-git/issues"
+  },
+  "homepage": "https://github.com/FreeAllMedia/stimpak-git#readme",
+	"dependencies": {},
+	"devDependencies": {}
 }
