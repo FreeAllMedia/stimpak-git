@@ -1,0 +1,13 @@
+{
+  "name": "stimpak-git",
+  "version": "0.0.0",
+  "description": "Prompt for whether to use git or not.",
+  "main": "lib/generator.js",
+  "keywords": [
+    "stimpak"
+  ],
+	"dependencies": {
+	},
+  "devDependencies": {
+	}
+}
