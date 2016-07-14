@@ -1,6 +1,6 @@
 # stimpak-git
 
-Prompt for whether to use git, and whether to use gitflow. Optionally initialize both.
+Prompt for whether to use git and/or gitflow. Optionally initialize both.
 
 This generator is primarily intended to be used in other generators.
 
